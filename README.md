@@ -44,7 +44,7 @@ rails db:create db:migrate db:seed
 ```ruby
 rails s
 ```
-And now you can visit the site with the URL http://localhost:3000/api-docs/index.html
+And now you can visit the site with the URL http://localhost:3000
 
 ### Additonal Info
 run below command 
